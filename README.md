@@ -1,4 +1,4 @@
-# Denver-Crime-Analysis
+#** Denver-Crime-Analysis**
 In depth analysis of Denver crime rates including an analysis of trends and patterns demonstrated through visualization
 
 This project aims to analyze Crime Data in the City of Denver from 2017 - 2023.
@@ -15,16 +15,16 @@ Kaggle dataset: https://www.kaggle.com/datasets/paultimothymooney/denver-crime-d
 - On what days and months are a higher number of crimes reported?
   
 Analysis Steps:
-- **Step 1: **Install + Import Necessary Libraries
+- Step 1: Install + Import Necessary Libraries
   
-- **Step 2:** Reading + Exploring Data
+- Step 2: Reading + Exploring Data
   
--** Step 3:** Data Cleaning + Preprocessing
+- Step 3:Data Cleaning + Preprocessing
 
-- **Step 4:** Data Analysis + Visualization
+- Step 4: Data Analysis + Visualization
 
 Files Included:
-**.ipynb Notebook**
+- **.ipynb Notebook**
 
-**Denver Crime Data (in English) csv file
-**
+- **Denver Crime Data (in English) csv file**
+
