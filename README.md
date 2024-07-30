@@ -1,4 +1,5 @@
-#** Denver-Crime-Analysis**
+#Denver-Crime-Analysis
+
 In depth analysis of Denver crime rates including an analysis of trends and patterns demonstrated through visualization
 
 This project aims to analyze Crime Data in the City of Denver from 2017 - 2023.
